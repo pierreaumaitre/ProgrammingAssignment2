@@ -26,7 +26,7 @@ The dataset includes the following files:
 
 ### Description
 
-Script produce to files:
+Script produce two files:
 
 - activity_data.txt' : detailed data
 - mean_activity_data.txt : mean data group by activity and subject
