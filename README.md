@@ -21,8 +21,11 @@ The dataset includes the following files:
 
 - 'features.txt': List of all features.
 
-- 'run_analysis.R' : Script R to produce DataSet
+- 'run_analysis.R' : Script R to produce file
 
+- 'mean_activity.txt' : data 
+
+- 'mean_activity_data.txt' : mean data
 
 ### Description
 
